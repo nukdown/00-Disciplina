@@ -90,6 +90,6 @@ ao código. Essa prática torna o código mais legível.
 
 ## Referencias:
 
-[site](https://agilecoachninja.wordpress.com/2016/03/08/debito-tecnico-divida-tecnica/)
+[Divida tecnica](https://agilecoachninja.wordpress.com/2016/03/08/debito-tecnico-divida-tecnica/)
 
-[site](http://www.linhadecodigo.com.br/artigo/2832/introducao-a-refatoracao.aspx/)
+[Refatoração](http://www.linhadecodigo.com.br/artigo/2832/introducao-a-refatoracao.aspx/)
